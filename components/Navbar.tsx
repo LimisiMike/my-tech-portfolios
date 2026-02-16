@@ -26,6 +26,13 @@ const Navbar: React.FC = () => {
           <a href="#expertise" className="text-slate-400 hover:text-white transition-colors text-sm font-medium">Expertise</a>
           <a href="#portfolio" className="text-slate-400 hover:text-white transition-colors text-sm font-medium">Portfolio</a>
           <a href="#testimonials" className="text-slate-400 hover:text-white transition-colors text-sm font-medium">Testimonials</a>
+          <a href="/my-tech-portfolios/Michael A. Limisi resume.pdf" 
+            download 
+            className="text-slate-400 hover:text-white transition-colors text-xs font-medium flex items-center gap-1 border border-slate-700/50 px-3 py-1.5 rounded-lg"
+          >
+            <i className="fas fa-download text-[10px]"></i>
+            Download CV
+          </a>
           <a href="#contact" className="bg-white/5 hover:bg-white/10 text-white px-5 py-2 rounded-full text-sm font-semibold border border-white/10 transition-all">
             Book a System Audit
           </a>

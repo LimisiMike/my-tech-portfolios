@@ -114,6 +114,16 @@ const Contact: React.FC = () => {
             >
               Send Audit Request
             </button>
+            <div className="text-center">
+                <a 
+                  href="https://calendly.com/michaellimisi7/system-audit" 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="text-indigo-400 hover:text-indigo-300 font-medium underline underline-offset-4 transition-colors"
+                >
+                  Hate forms? Book a 15-min System Audit.
+                </a>
+              </div>
             <p className="text-center text-xs text-slate-500">
               Response time: typically under 12 hours.
             </p>

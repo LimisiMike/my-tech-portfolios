@@ -29,6 +29,14 @@ const Hero: React.FC = () => {
             I bridge the gap between Tier 3 Technical Support and AI Agentic Workflows. 
             Stop drowning in tickets—let's build a system that <span className="text-emerald-400 font-semibold underline decoration-emerald-500/30">solves them for you.</span>
           </p>
+           {/* <div className="flex justify-center mb-12">
+            <img 
+              src="/my-tech-portfolios/GPE.jpg" 
+              alt="Google Prompting Essentials Certified" 
+              className="h-14 md:h-16 grayscale opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-300 cursor-help"
+              title="Google Prompting Essentials Certified"
+            />
+          </div> */}
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a href="#contact" className="w-full sm:w-auto px-8 py-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-bold text-lg shadow-lg shadow-indigo-500/25 transition-all transform hover:-translate-y-1">
