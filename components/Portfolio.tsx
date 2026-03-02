@@ -5,21 +5,21 @@ const projects = [
   {
     title: "Scaling Arucy to 1M Users",
     description: "Architected the technical support infrastructure for a high-growth SaaS startup, reducing escalation response time by 60%.",
-    image: "https://picsum.photos/id/1/600/400",
+    image: "/my-tech-portfolios/Scalings.png",
     tags: ["SQL", "AWS", "Support Operations"],
     icon: "fa-chart-line"
   },
   {
     title: "The AI Agent That Drafts Emails",
     description: "Built a custom LLM-powered agent using Make.com that drafts context-aware responses to 80% of incoming Tier 1 tickets.",
-    image: "https://picsum.photos/id/2/600/400",
+    image: "/my-tech-portfolios/The_AI_Agent.png",
     tags: ["Make.com", "OpenAI", "Python"],
     icon: "fa-envelope-open-text"
   },
   {
     title: "Midjourney & Content Automation",
     description: "Developed a Discord-based workflow to automate high-fidelity asset generation for marketing teams using prompting and API bridges.",
-    image: "https://picsum.photos/id/3/600/400",
+    image: "/my-tech-portfolios/Midjourney.png",
     tags: ["Prompting", "Discord API", "Node.js"],
     icon: "fa-magic"
   }
