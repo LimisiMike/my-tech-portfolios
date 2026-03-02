@@ -33,9 +33,9 @@ const Portfolio: React.FC = () => {
           <h2 className="text-3xl md:text-5xl font-bold text-white mb-4">Proof of Work</h2>
           <p className="text-slate-400 max-w-xl">A glimpse into the systems I've built to save thousands of hours and handle millions of requests.</p>
         </div>
-        <a href="https://github.com" className="text-indigo-400 font-semibold hover:text-indigo-300 flex items-center gap-2 group">
+        {/* <a href="https://github.com" className="text-indigo-400 font-semibold hover:text-indigo-300 flex items-center gap-2 group">
           View all on GitHub <i className="fas fa-arrow-right transition-transform group-hover:translate-x-1"></i>
-        </a>
+        </a> */}
       </div>
 
       <div className="grid md:grid-cols-3 gap-8">
