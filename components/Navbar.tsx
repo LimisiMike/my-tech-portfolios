@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
           <a href="#expertise" className="text-slate-400 hover:text-white transition-colors text-sm font-medium">Expertise</a>
           <a href="#portfolio" className="text-slate-400 hover:text-white transition-colors text-sm font-medium">Portfolio</a>
           <a href="#testimonials" className="text-slate-400 hover:text-white transition-colors text-sm font-medium">Testimonials</a>
-          <a href="/my-tech-portfolios/Michael A. Limisi resume.pdf" 
+          <a href="/my-tech-portfolios/Michael_Limisi_Resume.pdf" 
             download 
             className="text-slate-400 hover:text-white transition-colors text-xs font-medium flex items-center gap-1 border border-slate-700/50 px-3 py-1.5 rounded-lg"
           >
